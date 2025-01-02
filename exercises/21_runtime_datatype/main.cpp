@@ -50,3 +50,4 @@ int main(int argc, char **argv) {
     ASSERT(yd.d == 1 / (1 + std::exp(-5.0)), "sigmoid double");
     return 0;
 }
+//test
